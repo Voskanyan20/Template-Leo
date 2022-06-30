@@ -1,0 +1,286 @@
+@media (min-width:320px) and (max-width:480px){
+    .section__logos {
+        display: none;
+    }
+    .submit{
+        margin-left: 27%;
+    }
+    .section__inputs{
+        display: contents;
+    }
+    .inputs1{
+        margin: 0 auto;
+    }
+    .inputs2{
+        margin: 0 auto;
+    }
+    .footerdiv__info1{
+        display: none;
+    }
+    .footerdiv__info3{
+        display: none;
+    }
+    .preipod__2 {
+        font-size: 10px;
+    }
+    .preipod__1{
+        font-size: 10px;
+    }
+    .browser__img img {
+        margin-left: 24%;
+    }
+    .ipod__div img {
+        width: 445px;
+    }
+    .sub1{
+        width: 80px;
+    }
+    .input__text {
+        width: 97px;
+    }
+    .input__text1{
+        width: 97px;
+    }
+    .input__2 {
+        width: 100px;
+    }
+    .footerdiv__info1 {
+        width: 22%;
+    }
+    .header img {
+        margin-right: 4%;
+    }
+    .list__div {
+        display: none;
+    }
+    .browser__img img {
+        margin-left: 46%;
+    }
+    .preipod__1 {
+        font-size: 12px;
+    }
+    .preipod__2 {
+        font-size: 12px;
+    }
+    .logosmini__img img {
+        margin-left: 25px;
+    }
+    .section__logos h2 {
+        font-size: 29px;
+    }
+    .input__text {
+        width: 100px;
+    }
+    .input__text1{
+        width: 100px;
+    }
+    .inputs2 h2 {
+        font-size: 23px;
+    }
+    .input__2 {
+        width: 172px;
+    }
+    .header img {
+        margin-right: 0%;
+    }
+    .header__list a {
+        margin-right: 20px;
+        margin-left: 5%;
+    }
+    .browser__img img {
+        margin-left: 35%;
+    }
+}
+@media (min-width:481px) and (max-width:767px){
+    .section__logos {
+        display: none;
+    }
+    .submit{
+        margin-left: 27%;
+    }
+    .section__inputs{
+        display: contents;
+    }
+    .inputs1{
+        margin: 0 auto;
+    }
+    .inputs2{
+        margin: 0 auto;
+    }
+    .footerdiv__info1{
+        display: none;
+    }
+    .footerdiv__info3{
+        display: none;
+    }
+    .ipod__div img {
+        margin: 11% 0 0 0%;
+    }
+    .preipod__2 {
+        font-size: 10px;
+    }
+    .preipod__1{
+        font-size: 10px;
+    }
+    .sub1{
+        width: 80px;
+    }
+    .input__text {
+        width: 97px;
+    }
+    .input__text1{
+        width: 97px;
+    }
+    .input__2 {
+        width: 100px;
+    }
+    .footerdiv__info1 {
+        width: 22%;
+    }
+    .header img {
+        margin-right: 4%;
+    }
+    .list__div {
+        display: none;
+    }
+    .preipod__1 {
+        font-size: 12px;
+    }
+    .preipod__2 {
+        font-size: 12px;
+    }
+    .logosmini__img img {
+        margin-left: 25px;
+    }
+    .section__logos h2 {
+        font-size: 29px;
+    }
+    .input__text {
+        width: 100px;
+    }
+    .input__text1{
+        width: 100px;
+    }
+    .inputs2 h2 {
+        font-size: 23px;
+    }
+    .input__2 {
+        width: 172px;
+    }
+    .header img {
+        margin-right: 0%;
+    }
+    .header__list a {
+        margin-right: 20px;
+        margin-left: 5%;
+    }
+    .ipod__div img{
+        width: 450px;
+    }
+    .header__list{
+        display: none;
+    }
+    .header img {
+        margin: 0 auto;
+    }
+    .main__button {
+        margin-left: 30%;
+    }
+    .submit{
+        margin-left: 30%;
+    }
+    .footerdiv__info3 {
+        width: 20%;
+    }
+    .ipod__div img {
+        width: 445px;
+    }
+    .header img {
+        margin-right: 6%;
+    }
+    .list__div {
+        display: none;
+    }
+    .header img {
+        margin-right: 8%;
+    }
+    .list__div {
+        display: none;
+    }
+    .main__img{
+        display: none;
+    }
+    .header img{
+        margin-right: 15%;
+    }
+    .input__text{
+        width: 140px;
+    }
+    .input__text1{
+        width: 140px;
+    }
+    .input__2{
+        width: 229px;
+    }
+}
+@media (min-width:768px) and (max-width:1024px){
+    .header__list{
+        display: none;
+    }
+    .header img {
+        margin: 0 auto;
+    }
+    .main__button {
+        margin-left: 30%;
+    }
+    .submit{
+        margin-left: 30%;
+    }
+    .footerdiv__info3 {
+        width: 20%;
+    }
+    .ipod__div img {
+        width: 663px;
+        margin: 11% 0 0 4%;
+    }
+    .header img {
+        margin-right: 6%;
+    }
+    .list__div {
+        display: none;
+    }
+    .browser__img img {
+        margin-left: 46%;
+    }
+    .header img {
+        margin-right: 8%;
+    }
+    .list__div {
+        display: none;
+    }
+    .browser__img img {
+        margin-left: 46%;
+    }
+    .main__img{
+        display: none;
+    }
+    .main__button{
+        margin-left: 37%;
+    }
+    .header img{
+        margin-right: 15%;
+    }
+    .browser__img{
+        width: 52%;
+    }
+    .input__text{
+        width: 140px;
+    }
+    .input__text1{
+        width: 140px;
+    }
+    .input__2{
+        width: 229px;
+    }
+}
+
